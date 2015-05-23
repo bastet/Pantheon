@@ -1,0 +1,10 @@
+[package]
+name = "Pantheon"
+version = "0.1.0"
+authors = ["martin"]
+
+[dependencies]
+router = "*"
+
+[dependencies.iron]
+version = "*"
