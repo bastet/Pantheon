@@ -5,6 +5,7 @@ authors = ["martin"]
 
 [dependencies]
 router = "*"
+websocket = "*"
 
 [dependencies.iron]
 version = "*"
